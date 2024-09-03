@@ -1,0 +1,31 @@
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-Bold.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-SemiBold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family:Gamer ;
+    src: url(../Fonts/Oswald-ExtraLight.ttf);
+    font-weight: 100;
+}
