@@ -1,5 +1,4 @@
 nav{
-    color: blue;
     font-family:Gamer;
     font-weight: 700;
     font-style: normal;
@@ -27,5 +26,9 @@ h3{
 }
 article{
     text-align: center;
-    margin: 15px;
+    margin: 15px; 
+}
+.avatar{
+    width: 280px;
+    height: 300px;
 }
