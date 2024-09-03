@@ -1,3 +1,15 @@
 #parrafo{
     background-color: red;
 }
+nav{
+    color: blue;
+    font-family:Gamer;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    
+}
