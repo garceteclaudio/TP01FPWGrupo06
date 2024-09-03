@@ -14,5 +14,10 @@ nav{
 }
 p{
     font-family: Gamer;
-    font-weight: 500;
+    font-weight: 400;
+}
+.card-title{
+    font-family: Gamer;
+    font-weight: 700;
+    font-size: 20px ;
 }
